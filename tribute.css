@@ -1,0 +1,38 @@
+*{
+	background-color: #e9e7d7;
+
+}
+h1{
+	width: 100%;
+	border-top: solid 1px #9a9a9a;
+	border-bottom: solid 1px #9a9a9a;
+	text-align: center;
+	background-color: white;
+}
+#content{
+	text-align: center;
+}
+#image {
+	width: 20%;
+    left: 50%;
+    position: relative;
+    transform: translateX(-50%);
+}
+.caption-container{
+	width: 100%;
+}
+#img-caption{
+	display: inline-block;
+    left: 50%;
+    position: relative;
+    transform: translateX(-50%);
+}
+blockquote {
+	text-align: center;
+}
+#quote{
+	font-style: italic;
+}
+p , li{
+	font-size: large;
+}
